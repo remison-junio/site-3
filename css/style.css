@@ -151,7 +151,7 @@ ul li {
 .secao-1 {
 	width: 100%;
 	height: 100vh;
-	background-image: url(../bg.jpg);
+	background-image: url(../img/bg.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
